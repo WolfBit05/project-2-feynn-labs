@@ -1,0 +1,31 @@
+id,Model,Manufacturer,Vehicle Type,Battery Capacity (kWh),Range per Charge (km),Charging Time (Hr),Price (INR),Power (kW),Top Speed (kmph),Year of Manufacture
+1,Ola Electric S1 Pro,Ola Electric,Scooter,4,181,6.5,140000,11,120,2023
+2,TVS iQube,TVS,Scooter,3.04,75,5,100000,4.4,78,2022
+3,Ola Electric S1 X,Ola Electric,Scooter,3,141,5.5,99999,8.5,95,2023
+4,Revolt RV400,Revolt,Bike,3.24,150,4.5,124999,3,85,2022
+5,Ultraviolette F77,Ultraviolette,Bike,4.2,307,1.5,350000,33.5,147,2023
+6,Oben Rorr,Oben,Bike,4.4,200,2,99999,10,100,2022
+7,Komaki Ranger,Komaki,Bike,3.6,200,5.5,178000,4,80,2022
+8,Srivaru Motors Prana,Srivaru Motors,Bike,7.2,126,4,225000,25,123,2022
+9,Tork Kratos R,Tork,Bike,4,180,4,206999,9,105,2022
+10,Komaki XGT CAT 2.0,Komaki,Scooter,1.44,95,5.5,96250,1.6,25,2022
+11,Okaya Ferrato Disruptor,Okaya,Bike,2.4,100,4.5,159999,2.5,85,2022
+12,Matter Aera,Matter,Bike,6,125,5,160000,10.5,100,2022
+13,ABZO VS01,ABZO,Bike,4.32,181,5.5,175000,8.5,100,2022
+14,Revolt RV400 BRZ,Revolt,Bike,3.24,150,4.5,124999,3,85,2022
+15,MX Moto M16,MX Moto,Bike,4.5,150,5,175000,6,120,2022
+16,Kabira Mobility KM3000,Kabira Mobility,Bike,4,120,2,136990,6,100,2022
+17,Power EV P-Sport,Power EV,Bike,4,120,4.5,145000,4.5,90,2022
+18,One Electric Motorcycles Kridn,One Electric Motorcycles,Bike,2.88,120,4,135000,5.5,95,2022
+19,Orxa Mantis,Orxa,Bike,9,200,3.5,300000,25,140,2022
+20,Raptee Electric Bike,Raptee,Bike,4.8,150,4.5,170000,8,110,2022
+21,Optima CX 5.0,Hero Electric,Bike,3,135,6.5,124360,1.2,55,2024
+22,Photon LP,Hero Electric,Bike,1.87,90,5,110891,1.2,45,2024
+23,Ather 450X,Ather,Scooter,3.7,150,4.5,154999,8.58,90,2024
+24,Ather 450X Pro,Ather,Scooter,3.7,150,4.5,160000,8.58,90,2024
+25,Ather 450S,Ather,Scooter,2.9,115,6.6,125599,8.58,90,2024
+26,Vida V1 Plus,Hero,Scooter,3.44,143,5.5,145000,6,80,2024
+27,Vida V1 Pro,Hero,Scooter,3.94,165,5.5,159000,6,80,2024
+28,Chetak Electric,Bajaj Auto,Scooter,4,95,5,150000,4,60,2020
+29,Rizta S,Ather,Scooter,2.9,123,8.3,110889,4.3,80,2024
+30,Rizta Z,Ather,Scooter,2.9,123,6.4,125131,4.3,80,2024
